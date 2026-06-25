@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Ivan Zapata"
 author_profile: true
 redirect_from:
   - /about/
