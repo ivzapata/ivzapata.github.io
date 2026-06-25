@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Local-only working notes for Claude (do not sync)
+CLAUDE.md
